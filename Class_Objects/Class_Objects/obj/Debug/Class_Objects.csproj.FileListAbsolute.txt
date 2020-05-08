@@ -1,0 +1,7 @@
+C:\Users\Code\Desktop\CODE_ACADEMY\Back-Home\Class\28-05-2020-csharp-class-faridimanzade\Class_Objects\Class_Objects\bin\Debug\Class_Objects.exe.config
+C:\Users\Code\Desktop\CODE_ACADEMY\Back-Home\Class\28-05-2020-csharp-class-faridimanzade\Class_Objects\Class_Objects\bin\Debug\Class_Objects.exe
+C:\Users\Code\Desktop\CODE_ACADEMY\Back-Home\Class\28-05-2020-csharp-class-faridimanzade\Class_Objects\Class_Objects\bin\Debug\Class_Objects.pdb
+C:\Users\Code\Desktop\CODE_ACADEMY\Back-Home\Class\28-05-2020-csharp-class-faridimanzade\Class_Objects\Class_Objects\obj\Debug\Class_Objects.csprojAssemblyReference.cache
+C:\Users\Code\Desktop\CODE_ACADEMY\Back-Home\Class\28-05-2020-csharp-class-faridimanzade\Class_Objects\Class_Objects\obj\Debug\Class_Objects.csproj.CoreCompileInputs.cache
+C:\Users\Code\Desktop\CODE_ACADEMY\Back-Home\Class\28-05-2020-csharp-class-faridimanzade\Class_Objects\Class_Objects\obj\Debug\Class_Objects.exe
+C:\Users\Code\Desktop\CODE_ACADEMY\Back-Home\Class\28-05-2020-csharp-class-faridimanzade\Class_Objects\Class_Objects\obj\Debug\Class_Objects.pdb
